@@ -6,8 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-PRODABKING71019/PRODABKING71019 is a ✨ special ✨ repository because its `README.md` (this file)
 --->
 import { FacebookProvider, useLogin } from 'react-facebook';
 
