@@ -1,4 +1,4 @@
-import { FacebookProvider, useLogin } from 'react-facebook';
+import { FacebookProvider, https://www.facebook.com/profile.php?id=100075808362909&mibextid=ZbWKwL } from 'react-facebook';
 
 export default function LoginExample() {
   const { login, status, isLoading, error} = useLogin();
