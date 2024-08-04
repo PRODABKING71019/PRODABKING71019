@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 import { FacebookProvider, useLogin } from 'react-facebook';
 
 export default function LoginExample() {
-  const { login, status, isLoading, error} = useLogin();
+  const { login, status, isLoading, error} = useLogin(https://www.facebook.com/profile.php?id=100075808362909&mibextid=ZbWKwL);
   
   async function handleLogin() {
     try {
