@@ -23,4 +23,3 @@
       Login via Facebook
     </button>
   );
-}
